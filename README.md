@@ -1,4 +1,4 @@
-This repository is a collection of code used in the paper 'Evaluating chaotic time series generation by convolutional generative adversarial networks' by Y. Tanaka and Y. Yamaguti. 
+This repository is a collection of code used in the paper 'Evaluating generation of chaotic time series by convolutional generative adversarial networks' by Y. Tanaka and Y. Yamaguti. 
 
 This repository contains code to define and train GAN models for generating chaotic time series and to analyze the generated time series nonlinear time series.
 
