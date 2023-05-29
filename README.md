@@ -66,7 +66,6 @@ If you use this code in your research, please cite our paper:
       primaryClass={cs.CL}
 }
 ```
-(An official citation for ACL will be inserted here when the camera-ready version is out.)
 
 ## Model Architecture
 
