@@ -1,4 +1,6 @@
-This repository is a collection of code used in the paper 'Evaluating generation of chaotic time series by convolutional generative adversarial networks' by Y. Tanaka and Y. Yamaguti. 
+
+
+This repository is a collection of code used in the paper [Evaluating generation of chaotic time series by convolutional generative adversarial networks](https://arxiv.org/abs/2305.16729) by Y. Tanaka and Y. Yamaguti. 
 
 This repository contains code to define and train GAN models for generating chaotic time series and to analyze the generated time series nonlinear time series.
 
@@ -50,6 +52,21 @@ python chaosgan_errors.py
 ```
 
 
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+```
+@misc{tanaka2023evaluating,
+      title={Evaluating generation of chaotic time series by convolutional generative adversarial networks}, 
+      author={Yuki Tanaka and Yutaka Yamaguti},
+      year={2023},
+      eprint={2305.16729},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+(An official citation for ACL will be inserted here when the camera-ready version is out.)
 
 ## Model Architecture
 

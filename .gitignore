@@ -162,3 +162,5 @@ training_checkpoints/*
 gen_images/*
 *.eps
 launch.json
+
+.vscode/*
