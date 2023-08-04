@@ -9,7 +9,7 @@ This repository contains code to define and train GAN models for generating chao
 
 ## Online Supplementary Material
 
-[The online supplementary material is available here.](Supplementary_ChaosGAN.pdf)
+[The online supplementary material (PDF file) is available here.](Supplementary_ChaosGAN.pdf)
 
 ## Requirements
 
